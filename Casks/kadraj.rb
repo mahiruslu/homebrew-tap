@@ -1,6 +1,6 @@
 cask "kadraj" do
-  version "0.3.0"
-  sha256 "7d5766c9a3988439d723c1dfc214d1c594b1041363969fa04b3909d03f1fb66c"
+  version "1.0.0"
+  sha256 "a8e385d7bbcea218cc6362087495970df16ca0a84fc91dc3308f32cd3120933b"
 
   url "https://github.com/mahiruslu/kadraj/releases/download/v#{version}/Kadraj.zip"
   name "Kadraj"
